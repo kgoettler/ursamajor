@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=UrsaMajor
+Comment=Ursa Major, a dark colorscheme inspired by Nord
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=UrsaMajor
+IconTheme=Zafiro-icons
+ButtonLayout=:minimize,maximize,close
