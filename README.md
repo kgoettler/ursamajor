@@ -1,5 +1,7 @@
 # Ursa Major
 
+![](./sample/gnome-terminal.png)
+
 Ursa Major is a colorscheme, inspired by Nord, but designed to offer more 
 balanced gray/white hues.
 
