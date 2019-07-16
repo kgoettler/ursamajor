@@ -421,9 +421,9 @@ notebook > header > tabs > arrow:active,
 notebook > header > tabs > arrow:checked,
 button:active,
 button:checked {
-	color: #8ABBB9;
+	color: #2e3440;
 	outline-color: rgba(46, 52, 64, 0.3);
-	background: #7fb2b1;
+	background-color: #8fbcbb;
 	text-shadow: none;
 	transition-duration: 50ms;
 }
@@ -446,9 +446,10 @@ button:backdrop.flat:active,
 button:backdrop.flat:checked,
 button:backdrop:active,
 button:backdrop:checked {
-	color: rgba(46, 52, 64, 0.7);
+	/*color: rgba(46, 52, 64, 0.7);*/
 	outline-color: rgba(216, 222, 233, 0.3);
 	background-color: #8fbcbb;
+    color: #2e3440;
 	text-shadow: none;
 }
 notebook > header > tabs > arrow:backdrop:active label,
@@ -460,7 +461,8 @@ button:backdrop.flat:checked label,
 button:backdrop:active label,
 button:backdrop:checked label {
 	/*color: rgba(46, 52, 64, 0.7);*/
-    color: #8ABBB9;
+    /*color: #8ABBB9;*/
+    color: #2e3440;
 }
 notebook > header > tabs > arrow:backdrop:disabled,
 notebook > header > tabs > arrow:backdrop:disabled,
@@ -2858,21 +2860,21 @@ headerbar button.suggested-action {
 headerbar button.suggested-action:hover {
 	color: white;
 	outline-color: rgba(255, 255, 255, 0.3);
-	background-color: #9fd3e6;
+	background-color: #8ABB9;
 	text-shadow: none;
 }
 .titlebar button.suggested-action:active,
 headerbar button.suggested-action:active {
 	color: white;
 	outline-color: rgba(255, 255, 255, 0.3);
-	background: #9fd3e6;
+	background: #8ABBB9;
 	text-shadow: none;
 }
 .titlebar button.suggested-action:disabled,
 headerbar button.suggested-action:disabled {
 	color: white;
 	outline-color: rgba(255, 255, 255, 0.3);
-	background-color: #9fd3e6;
+	background-color: #2e3440;
 	text-shadow: none;
 }
 .titlebar button.suggested-action:disabled label,
@@ -2883,7 +2885,7 @@ headerbar button.suggested-action:disabled label {
 headerbar button.suggested-action:backdrop {
 	color: rgba(255, 255, 255, 0.4);
 	outline-color: rgba(255, 255, 255, 0.3);
-	background-color: #9fd3e6;
+	background-color: #8ABBB9;
 	text-shadow: none;
 	border-radius: 3px;
 }
