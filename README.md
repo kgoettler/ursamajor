@@ -1,5 +1,3 @@
-# Ursa Major
-
 ![](./sample/ursamajor.png)
 
 Ursa Major is a colorscheme, inspired by Nord, but designed to offer more 
