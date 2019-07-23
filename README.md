@@ -1,7 +1,7 @@
 ![](./sample/ursamajor.png)
 
-Ursa Major is a colorscheme, inspired by Nord, but designed to offer more 
-balanced gray/white hues.
+Ursa Major is a colorscheme, inspired by the Nord colorscheme and the [Nordic](https://github.com/EliverLara/Nordic) 
+theme by Eliver L., but designed to offer more balanced gray/white hues.
 
 # Installation
 
